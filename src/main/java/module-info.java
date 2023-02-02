@@ -1,4 +1,4 @@
-module com.xing.javafx.view {
+module com.xingray.javafx.view {
     requires javafx.fxml;
     requires javafx.controls;
     requires javafx.graphics;
